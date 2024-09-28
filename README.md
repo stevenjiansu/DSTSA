@@ -8,3 +8,5 @@ zomato_df_final_data is the real-world dataset from Zomato, which contains more 
 - Model evaluation metrics: Accuracy, Confusion Matrix, and Classification Report.
 
 Logistic regression using 99% of the variance explained by PCA gives the best result, with 100% accuracy, which is a very good model
+
+This project received valuable guidance and support from ChatGPT, developed by OpenAI, in areas such as machine learning, data preprocessing, and algorithm evaluation.
